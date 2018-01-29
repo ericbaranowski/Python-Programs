@@ -18,7 +18,7 @@ print(squares)       # [1, 4, 9, 16]
 
 # Get a list of uppercase characters from string
 str = [s.upper() for s in 'hello' if s == 'h']
-print(str)           # ['H', 'E', 'L', 'L', 'O']
+print(str)           # ['H']
 
 # If-else example. It comes before For loop
 str = [s if s in 'arial' else '*' for s in 'apple']
