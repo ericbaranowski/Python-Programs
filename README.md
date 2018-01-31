@@ -3,7 +3,7 @@ Collection of my Python programs on Data Structures, Algorithms and Hacker Rank 
 
 ## Python Basics
 
-List Comprehensions:  ([Code](https://github.com/JShilpa/Python-Programs/blob/master/PyNotes/listcomprehensions.py) [Concept](https://medium.com/things-i-learned-today-tilt/comprehensions-abf58d9e4bfc))
+List Comprehensions:  [Code](https://github.com/JShilpa/Python-Programs/blob/master/PyNotes/listcomprehensions.py)
 
 ## Sorting Algorithms
 
